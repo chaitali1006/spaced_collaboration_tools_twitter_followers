@@ -8,14 +8,14 @@
     "text": "Chaitali Patel"
   },
   "text": {
-    "more": "The nodes are Community Building Subcategory and Twitter Followers Count and egdes are relstionship between them.",
-    "intro": "Spaced Database Community Building Subcategory/ Twitter Followers Count\n",
+    "more": "The nodes are Collaboration Tools Subcategory and Twitter Followers Count and egdes are relstionship between them.",
+    "intro": "Spaced Database Collaboration Tools Subcategory/ Twitter Followers Count\n",
     "title": "Spaced Twitter Database"
   },
   "legend": {
     "edgeLabel": "Relationship",
     "colorLabel": "Grey",
-    "nodeLabel": "DesignCommunity Building Subcategory/ Twitter Location"
+    "nodeLabel": "Collaboration Tools Subcategory/ Followers Count"
   },
   "features": {
     "search": true,
